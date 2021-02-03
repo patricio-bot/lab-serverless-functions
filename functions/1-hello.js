@@ -2,6 +2,6 @@
 exports.handler = async (event, context) => {
     return {
         statusCode: 200,
-        body: 'Our first Netlify function example'
+        body: 'first Netlify function example'
     }
 } 
